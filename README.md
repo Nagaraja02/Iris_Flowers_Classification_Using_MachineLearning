@@ -32,4 +32,4 @@ I can see that Support Vector Machines and K-Nearest Neighbors have the highest 
 
 ## Conclusion
 
-I have successfully classified iris flowers using machine learning models. I have also evaluated the performance of each model using various metrics. We have found that Support Vector Machines and K-Nearest Neighbors are the best models for this task.
+I have successfully classified iris flowers using machine learning models. I have also evaluated the performance of each model using various metrics. I have found that Support Vector Machines and K-Nearest Neighbors are the best models for this task.
